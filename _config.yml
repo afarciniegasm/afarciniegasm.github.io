@@ -1,0 +1,31 @@
+remote_theme: fongandrew/hydeout
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Site web de Andres
+description:      ''
+url:              https://afarciniegasm.github.io/
+
+author:
+  name:           'andres arciniegas'
+  url:            https://twitter.com/DocteurAndres
+
+paginate:         10
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate

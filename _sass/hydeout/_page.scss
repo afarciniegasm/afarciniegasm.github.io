@@ -1,0 +1,16 @@
+#main {
+  margin-left: auto;
+  margin-top: 2em;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  max-width: 100%;
+  -webkit-animation-delay: 0.35s;
+          animation-delay: 0.35s;
+}
+
+.page {
+  max-width: 1000px + #{$sidebar-width};
+  flex-grow: 1;
+  /*width: calc(100% - #{$sidebar-width});*/
+}
