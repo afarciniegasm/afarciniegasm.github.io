@@ -89,3 +89,8 @@ Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp
 TPB en premier créneau <br>
 TPA en deuxième créneau <br>
 Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp15.pdf" target="_blank">TP15 Étude d’un filtre passe bas du second ordre </a> <br>
+
+### Semaine 11 (15/03/21 au 19/03/21) : <br>
+TPA en premier créneau <br>
+TPB en deuxième créneau <br>
+Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp16.pdf" target="_blank">TP16 Détection d’activité vocale (DAV) : 1ère partie </a> <br>
