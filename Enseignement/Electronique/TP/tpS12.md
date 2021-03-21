@@ -15,5 +15,5 @@ TPB en premier créneau <br>
 TPA en deuxième créneau <br>
 
 <span style="font-size:larger;color:red;">Aucune préparation n'est demandée. </span> <br>
-Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp17.pdf" target="_blank">TP16 Détection d’activité vocale (DAV) : 2ème partie </a> <br>
+Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp17.pdf" target="_blank">TP17 Détection d’activité vocale (DAV) : 2ème partie </a> <br>
 <span style="font-size:larger;color:red;">TOUS les étudiants doivent remettre un CR papier à la fin de la séance de TP </span>
