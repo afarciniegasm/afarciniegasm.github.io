@@ -94,3 +94,9 @@ Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp
 TPA en premier créneau <br>
 TPB en deuxième créneau <br>
 Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp16.pdf" target="_blank">TP16 Détection d’activité vocale (DAV) : 1ère partie </a> <br>
+
+### Semaine 12 (22/03/21 au 26/03/21) : <br>
+TPB en premier créneau <br>
+TPA en deuxième créneau <br>
+Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp17.pdf" target="_blank">TP17 Détection d’activité vocale (DAV) : 2ème partie </a> <br>
+
