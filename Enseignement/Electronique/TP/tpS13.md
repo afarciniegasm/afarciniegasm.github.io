@@ -14,6 +14,6 @@ Les horaires de passage :<br>
 TPA en premier créneau <br>
 TPB en deuxième créneau <br>
 
-<span style="font-size:larger;color:red;">Aucune préparation n'est demandée. </span> <br>
+<span style="font-size:larger;color:red;">Préparation obligatoire. </span> <br>
 Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp18.pdf" target="_blank">TP18 Montage en pont de Wheatstone </a> <br>
 <span style="font-size:larger;color:red;">TOUS les étudiants doivent remettre un CR papier à la fin de la séance de TP </span>
