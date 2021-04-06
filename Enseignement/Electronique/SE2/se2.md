@@ -7,3 +7,7 @@
 ### TD Cellule de Sallen-Key passe-bas : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/04_TD_Filtre2SallenKey.pdf" target="_blank">cliquez ici</a>  <br>
 
 ### TD Filtrage audio pour les normes téléphoniques : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/05_TD_FiltrageAudio.pdf" target="_blank">cliquez ici</a>  <br>
+
+## Cours AOP en Régime Non-Linéaire : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/07_Cours_AOP_RNL.pdf" target="_blank">cliquez ici</a>  <br>
+
+### TD Application à la commande d'un moteur : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/08_TD_AOP_RNL.pdf" target="_blank">cliquez ici</a>  <br>
