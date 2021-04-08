@@ -100,3 +100,7 @@ TPB en premier créneau <br>
 TPA en deuxième créneau <br>
 Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp17.pdf" target="_blank">TP17 Détection d’activité vocale (DAV) : 2ème partie </a> <br>
 
+### Semaine 13 (29/03/21 au 02/04/21) : <br>
+TPA en premier créneau <br>
+TPB en deuxième créneau <br>
+Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp18.pdf" target="_blank">TP18 Montage en pont de Wheatstone </a> <br>
