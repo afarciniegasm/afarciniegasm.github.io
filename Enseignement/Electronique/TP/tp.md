@@ -104,3 +104,8 @@ Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp
 TPA en premier créneau <br>
 TPB en deuxième créneau <br>
 Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp18.pdf" target="_blank">TP18 Montage en pont de Wheatstone </a> <br>
+
+### Semaine 15 (12/04/21 au 16/04/21) : <br>
+TPA en premier créneau <br>
+TPB en deuxième créneau <br>
+Sujet : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp19.pdf" target="_blank">TP19 Montage de compensation à AOP</a> <br>
