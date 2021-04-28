@@ -38,7 +38,7 @@ Merci de se référer à la liste pour savoir si vous avez l'etiquette A ou B. <
 
 <span style="font-size:larger;color:red;">À partir du sujet 2, une préparation est exigée pour TOUS avant le début de la séance. </span> <br>
 
-Pour accéder au <strong>sujet de la semaine 15 </strong> : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tpS15" target="_blank">cliquez ici</a>
+Pour accéder au <strong> sujet de la semaine 18 </strong> : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tpS18" target="_blank">cliquez ici</a>
 
 [//]: <>(<a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tpS47" target="_blank">cliquez ici</a>)
 
