@@ -14,4 +14,4 @@
 
 ### TD Comparateur à fenêtre à partir d’un comparateur simple : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/09_TD_comparateur_fenetre.pdf" target="_blank">cliquez ici</a>  <br>
 
-### Comparateur à Hystérésis : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/10_TD_hysteresis.pdf" target="_blank">cliquez ici</a>  <br>
+### TD Comparateur à Hystérésis : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/10_TD_hysteresis.pdf" target="_blank">cliquez ici</a>  <br>
