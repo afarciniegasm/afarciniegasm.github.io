@@ -11,3 +11,7 @@
 ## Cours AOP en Régime Non-Linéaire : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/07_Cours_AOP_RNL.pdf" target="_blank">cliquez ici</a>  <br>
 
 ### TD Application à la commande d'un moteur : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/08_TD_AOP_RNL.pdf" target="_blank">cliquez ici</a>  <br>
+
+### TD Comparateur à fenêtre à partir d’un comparateur simple : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/09_TD_comparateur_fenetre.pdf" target="_blank">cliquez ici</a>  <br>
+
+### TD Comparateur à Hystérésis : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/10_TD_hysteresis.pdf" target="_blank">cliquez ici</a>  <br>
