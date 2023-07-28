@@ -12,9 +12,10 @@ font-size: 8px
 Pour vous entraîner à la manipulation de vecteurs : <a href="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_fr.html" target="_blank">cliquez ici</a> <br>
 
 Pour accéder aux présentations et aux sujets de TD : <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P1/p1" target="_blank">Physique P1</a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank">Physique P2</a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P3/p3" target="_blank">Physique P3</a>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P1/p1" target="_blank">Physique P1 : mécanique et thermique </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank">Physique P2</a> : physique des capteurs <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank">Physique P2 bis : compléments de physique (électroacoustique) </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P3/p3" target="_blank">Physique P3 : vibrations et ondes </a>
 
 # Électronique :
 
