@@ -12,10 +12,10 @@ font-size: 8px
 Pour vous entraîner à la manipulation de vecteurs : <a href="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_fr.html" target="_blank">cliquez ici</a> <br>
 
 Pour accéder aux présentations et aux sujets de TD : <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P1/p1" target="_blank">Physique P1 : mécanique et thermique </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank">Physique P2 : physique des capteurs </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank">Physique P2 bis : compléments de physique (électroacoustique) </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P3/p3" target="_blank">Physique P3 : vibrations et ondes </a>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P1/p1" target="_blank"> P1 : mécanique et thermique </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank"> P2 : physique des capteurs </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank"> P2 bis : compléments de physique (électroacoustique) </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P3/p3" target="_blank"> P3 : vibrations et ondes </a>
 
 # Électronique :
 
@@ -24,10 +24,10 @@ Visitez la chaîne youtube de mon collègue Yohan Le Diraison : <a href="https:/
 ## Électronique (LP Mécatronique)
 Pour accéder aux présentations : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/EE/ee" target="_blank">cliquez ici</a>
 
-## Systèmes Électroniques (GEII 1A)
+## Systèmes Électroniques (BUT GEII)
 Pour accéder aux présentations et aux sujets de TD : <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE1/se1" target="_blank">SE1</a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/se2" target="_blank">SE2</a>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE1/se1" target="_blank">SE1 </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/se2" target="_blank">SE2 </a>
 
 [//]: <>(## Travaux Pratiques d'Électricité-Électronique (GEII 1A))
 
