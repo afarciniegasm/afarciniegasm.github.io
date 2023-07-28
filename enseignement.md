@@ -14,7 +14,7 @@ Pour vous entraîner à la manipulation de vecteurs : <a href="https://phet.colo
 Pour accéder aux présentations et aux sujets de TD : <br>
 <a href="https://afarciniegasm.github.io/Enseignement/Physique/P1/p1" target="_blank"> P1 : mécanique et thermique </a> <br>
 <a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank"> P2 : physique des capteurs </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2/p2" target="_blank"> P2 bis : compléments de physique (électroacoustique) </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Physique/P2bis/p2bis" target="_blank"> P2 bis : compléments de physique (électroacoustique) </a> <br>
 <a href="https://afarciniegasm.github.io/Enseignement/Physique/P3/p3" target="_blank"> P3 : vibrations et ondes </a>
 
 # Électronique :
