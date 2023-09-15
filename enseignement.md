@@ -45,3 +45,7 @@ Pour accéder aux présentations et aux sujets de TD : <br>
 [//]: <>(<a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tpS47" target="_blank">cliquez ici</a>)
 
 [//]: <>(Pour accéder à tous les sujets : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp" target="_blank">Archives</a>)
+
+# SAÉ BUT3 GEII :
+
+Les informations se trouvent dans le site de mon collègue Vincent Gauthier : <a href="https://sites.google.com/view/v-gauthier-mcfcyu/sae-but3-s5" target="_blank">cliquez ici</a>
