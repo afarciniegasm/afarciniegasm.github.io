@@ -48,4 +48,4 @@ Pour accéder aux présentations et aux sujets de TD : <br>
 
 # SAÉ BUT3 GEII :
 
-Les informations se trouvent dans le site de mon collègue Vincent Gauthier : <a href="https://sites.google.com/view/v-gauthier-mcfcyu/sae-but3-s5" target="_blank">cliquez ici</a>
+Les informations se trouvent sur le site de mon collègue Vincent Gauthier : <a href="https://sites.google.com/view/v-gauthier-mcfcyu/sae-but3-s5" target="_blank">cliquez ici</a>
