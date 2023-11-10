@@ -27,7 +27,9 @@ Pour accéder aux présentations : <a href="https://afarciniegasm.github.io/Ense
 ## Systèmes Électroniques (BUT GEII)
 Pour accéder aux présentations et aux sujets de TD : <br>
 <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE1/se1" target="_blank">SE1 </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/se2" target="_blank">SE2 </a>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/se2" target="_blank">SE2 </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/se5" target="_blank">SE5 </a>
+
 
 [//]: <>(## Travaux Pratiques d'Électricité-Électronique (GEII 1A))
 
@@ -45,6 +47,7 @@ Pour accéder aux présentations et aux sujets de TD : <br>
 [//]: <>(<a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tpS47" target="_blank">cliquez ici</a>)
 
 [//]: <>(Pour accéder à tous les sujets : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp" target="_blank">Archives</a>)
+
 
 # SAÉ BUT3 GEII :
 
