@@ -4,7 +4,7 @@
 
 ## Cours BJT et les amplificateurs de base : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/02_Cours_TransistorBipolaire_Amplificateurs.pdf" target="_blank">cliquez ici</a>  <br>
 
-## Cours Chaine d'amplification : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/03_Cours_ChaineAmplification.pdf" target="_blank">cliquez ici</a>  <br>
+## Cours Chaîne d'amplification : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/03_Cours_ChaineAmplification.pdf" target="_blank">cliquez ici</a>  <br>
 
 [//]: <>(## Cours Filtres Actifs : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/02_Cours_Filtres_Actifs.pdf" target="_blank">cliquez ici</a>  <br>)
 
