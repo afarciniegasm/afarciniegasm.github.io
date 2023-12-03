@@ -1,4 +1,4 @@
-## Cours Introduction à l'Électronique Analogique Spécialisée : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/00_Cours_Intro_SE5.pdf" target="_blank">cliquez ici</a>  <br>
+## Cours Introduction à l'électronique analogique spécialisée : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/00_Cours_Intro_SE5.pdf" target="_blank">cliquez ici</a>  <br>
 
 ## Cours Alimentations : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/01_Cours_Alimentations.pdf" target="_blank">cliquez ici</a>  <br>
 
