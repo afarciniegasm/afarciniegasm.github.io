@@ -8,4 +8,4 @@
 
 ## Cours Étages d'entrée à amplificateur différentiel et miroirs de courant : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/04_Cours_AmpliDiffMiroirCourant.pdf" target="_blank">cliquez ici</a>  <br>
 
-## Cours Étages de sortie  et amplificateurs de puissance : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/04_Cours_AmpliDiffMiroirCourant.pdf" target="_blank">cliquez ici</a>  <br>
+## Cours Étages de sortie  et amplificateurs de puissance : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/05_Cours_AmpliPuissance.pdf" target="_blank">cliquez ici</a>  <br>
