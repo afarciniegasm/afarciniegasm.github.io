@@ -28,9 +28,9 @@ Pour accéder aux présentations : <a href="https://afarciniegasm.github.io/Ense
 Pour accéder aux présentations et aux sujets de TD : <br>
 <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE1/se1" target="_blank">SE1 </a> <br>
 <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/se2" target="_blank">SE2 </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE4/se4" target="_blank">SE4 : Systèmes de Transmission Des Données (Couche Physique) </a> <br>
-<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/se5" target="_blank">SE5 </a>
-<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE6/se6" target="_blank">SE5 </a>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE4/se4" target="_blank">SE4 : Systèmes de Transmission Des Données (Couche Physique) </a>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE5/se5" target="_blank">SE5 </a> <br>
+<a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE6/se6" target="_blank">SE6 </a>
 
 
 [//]: <>(## Travaux Pratiques d'Électricité-Électronique (GEII 1A))
