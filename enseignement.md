@@ -51,6 +51,6 @@ Pour accéder aux présentations et aux sujets de TD : <br>
 [//]: <>(Pour accéder à tous les sujets : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/TP/tp" target="_blank">Archives</a>)
 
 
-# SAÉ BUT3 GEII :
+# SAÉ BUT3 GEII ESE :
 
 Les informations se trouvent sur le site de mon collègue Vincent Gauthier : <a href="https://sites.google.com/view/v-gauthier-mcfcyu/sae-but3" target="_blank">cliquez ici</a>
