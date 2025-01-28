@@ -18,7 +18,7 @@
 
 ### TD Comparateur à Hystérésis : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/10_TD_hysteresis.pdf" target="_blank">cliquez ici</a>  <br>
 
-### TD Astable : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/11_TD_AOP_Astable.pdf" target="_blank">cliquez ici</a>  <br>
+### TD Astable : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/12_TD_AOP_Astable.pdf" target="_blank">cliquez ici</a>  <br>
 
-### TD Défauts des AOP : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/12_TD_AOP_Defauts.pdf" target="_blank">cliquez ici</a>  <br>
+### TD Défauts des AOP : <a href="https://afarciniegasm.github.io/Enseignement/Electronique/SE2/13_TD_AOP_Defauts.pdf" target="_blank">cliquez ici</a>  <br>
 
