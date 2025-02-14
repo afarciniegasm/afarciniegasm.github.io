@@ -9,7 +9,7 @@ font-size: 8px
 
 # Thématiques de recherche 
 
-## Caractérisation de matériaux complexes par Ellipsométrie acoustique:
+## Caractérisation de matériaux complexes par Ellipsométrie acoustique :
 <a href="https://theses.fr/2024CYUN1304" target="_blank">Ellipsométrie acoustique pour le suivi et la caractérisation de matériaux complexes </a> <br>
 
 ## Caractérisation ultrasonore du bois :
