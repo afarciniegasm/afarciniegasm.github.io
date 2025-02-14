@@ -9,9 +9,12 @@ font-size: 8px
 
 # Thématiques de recherche 
 
+## Caractérisation de matériaux complexes par Ellipsométrie acoustique:
+<a href="https://theses.fr/2024CYUN1304" target="_blank">Ellipsométrie acoustique pour le suivi et la caractérisation de matériaux complexes </a> <br>
+
 ## Caractérisation ultrasonore du bois :
 
-<span style="font-size:larger;color:red;">OFFRE DE STAGE ANNÉE 2022 - 2023 </span> <br> 
+<span style="font-size:larger;color:red;">OFFRE DE STAGE ANNÉE 2022 - 2023 (pourvue) </span> <br> 
 Sujet : <a href="https://afarciniegasm.github.io/Recherche/StageM2 SATIE CIRAD Cité_LB_AA_MJ.pdf" target="_blank">Suivi des propriétés mécaniques du bois en fonction de sa teneur en humidité </a> <br>
 (Collaboration SATIE/CIRAD/Cité de la musique)
 
