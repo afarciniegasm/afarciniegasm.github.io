@@ -53,4 +53,5 @@ Pour accéder aux présentations et aux sujets de TD : <br>
 
 # SAÉ BUT3 GEII ESE :
 
-Les informations se trouvent sur le site de mon collègue Vincent Gauthier : <a href="https://sites.google.com/view/v-gauthier-mcfcyu/sae-but3" target="_blank">cliquez ici</a>
+[//]: <>(Les informations se trouvent sur le site de mon collègue Vincent Gauthier : <a href="https://sites.google.com/view/v-gauthier-mcfcyu/sae-but3" target="_blank">cliquez ici</a>)
+Les informations se trouvent sur le site de mon collègue Vincent Gauthier : <a href="https://vg-portal.ovh/" target="_blank">cliquez ici</a>
